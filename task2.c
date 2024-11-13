@@ -14,7 +14,7 @@ int main() {
         char class1[20];
         int studentNumber;
     };
-    struct student student = {"22:41:00","nhirsama",20,"通信2303",230270124};
+    struct student student = {"22:41:00","nhirsama",20,"通信2303",2303103xx};
     char input[20] = {0};
     scanf("%s", input);
     if (strcmp(input,"time") == 0) {
